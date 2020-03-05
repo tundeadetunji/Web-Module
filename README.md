@@ -10,3 +10,5 @@ Uses:
 May use:
 NewtonSoft.Json 10.0.0
 MS SQL (with 2008 R2 in mind)
+
+Thanks!
